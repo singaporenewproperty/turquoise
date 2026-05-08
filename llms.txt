@@ -1,0 +1,9 @@
+# Turquoise
+
+> Turquoise — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/turquoise/
+
+## Pages
+
+- [Turquoise](https://singaporenewproperty.github.io/turquoise/): Turquoise property information.
